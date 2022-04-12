@@ -8,5 +8,6 @@ public class ExperimentApp {
         System.out.println("Enter the text");
         String text = scnr.nextLine();
         System.out.println("input: " + text);
+        System.out.println("hey");
     }
 }
